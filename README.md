@@ -210,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Filopater Hany
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: feloh64@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/filo-hany/
+- **GitHub**: https://github.com/FiloHany
 
 ---
 

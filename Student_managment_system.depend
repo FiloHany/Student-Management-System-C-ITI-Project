@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1724316146 source:d:\code block\student_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"students.h"
+	"STD_Types.h"
+
+1724317472 d:\code block\student_managment_system\students.h
+	"STD_Types.h"
+
+1724153443 d:\code block\student_managment_system\std_types.h
+
+1724317481 source:d:\code block\student_managment_system\students.c
+	<stdio.h>
+	<stdlib.h>
+	"students.h"
+	"STD_Types.h"
+

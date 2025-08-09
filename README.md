@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👏 Acknowledgments
 
-- Built with ❤️ by [Filopater Hany](https://github.com/yourusername)
+- Built with ❤️ by [Filopater Hany](https://github.com/FiloHany)
 - Inspired by real-world academic management needs
 - Thanks to the C programming community for continuous learning resources
 
